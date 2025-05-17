@@ -18,7 +18,7 @@ The application also features background images and a clean UI for a better user
 
 ## 🌐 Live Demo
 
-🔗 [View on GitHub Pages](https://tripura-23.github.io/weather-app)
+🔗 [View on GitHub Pages](https://github.com/tripura-23/weather-app.git)
 
 ## 🚀 Features
 
